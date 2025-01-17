@@ -1,9 +1,11 @@
 # Weather Star 3000 Emulator
 Weather Star 3000 emulation in HTML/JS/CSS
 
+# This Is A Fork! not the original!
+
 Website: https://www.weatherstar3000.net
 Insert location after the .net
-For eexample: https://www.weatherstar3000.net/?Pittsburgh PA
+For example: https://www.weatherstar3000.net/?Pittsburgh PA
 
 ### This is in Beta
 Visit the Disocrd: mistwx.com/discord
